@@ -81,9 +81,9 @@ Contains demographic data including:
 └── README.md                    # Project summary file
 
 ## ✅ Future Extensions
-. Interactive dashboards with Plotly or Streamlit
+- Interactive dashboards with Plotly or Streamlit
 
-. Machine learning models to predict population growth
+- Machine learning models to predict population growth
 
-. Integration with geospatial data for map-based analysis
+- Integration with geospatial data for map-based analysis
 
